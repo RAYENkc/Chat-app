@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\Downloads\\Chat-Messaging-App-Light-and-Dark-Theme-master\\Chat-Messaging-App-Light-and-Dark-Theme-master\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\a8bcfd81644fc7b4a32733dd226a6606\\play-services-base-17.1.0\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Downloads\\Chat-Messaging-App-Light-and-Dark-Theme-master\\Chat-Messaging-App-Light-and-Dark-Theme-master\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\a8bcfd81644fc7b4a32733dd226a6606\\play-services-base-17.1.0\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Downloads\\Chat-Messaging-App-Light-and-Dark-Theme-master\\Chat-Messaging-App-Light-and-Dark-Theme-master\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\a8bcfd81644fc7b4a32733dd226a6606\\play-services-base-17.1.0\\res\\color\\common_google_signin_btn_tint.xml"
+    }
+]

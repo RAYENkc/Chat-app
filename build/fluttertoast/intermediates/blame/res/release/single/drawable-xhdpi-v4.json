@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\Downloads\\Chat-Messaging-App-Light-and-Dark-Theme-master\\Chat-Messaging-App-Light-and-Dark-Theme-master\\build\\fluttertoast\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\5909d6a995fc316514a6af045c048cd3\\core-1.1.0\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Downloads\\Chat-Messaging-App-Light-and-Dark-Theme-master\\Chat-Messaging-App-Light-and-Dark-Theme-master\\build\\fluttertoast\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\5909d6a995fc316514a6af045c048cd3\\core-1.1.0\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Downloads\\Chat-Messaging-App-Light-and-Dark-Theme-master\\Chat-Messaging-App-Light-and-Dark-Theme-master\\build\\fluttertoast\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\5909d6a995fc316514a6af045c048cd3\\core-1.1.0\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Downloads\\Chat-Messaging-App-Light-and-Dark-Theme-master\\Chat-Messaging-App-Light-and-Dark-Theme-master\\build\\fluttertoast\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\5909d6a995fc316514a6af045c048cd3\\core-1.1.0\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Downloads\\Chat-Messaging-App-Light-and-Dark-Theme-master\\Chat-Messaging-App-Light-and-Dark-Theme-master\\build\\fluttertoast\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\5909d6a995fc316514a6af045c048cd3\\core-1.1.0\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    }
+]

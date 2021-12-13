@@ -1,0 +1,4 @@
+#Fri Dec 10 08:41:23 WAT 2021
+base.0=C\:\\Users\\HP\\Downloads\\Chat-Messaging-App-Light-and-Dark-Theme-master\\Chat-Messaging-App-Light-and-Dark-Theme-master\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

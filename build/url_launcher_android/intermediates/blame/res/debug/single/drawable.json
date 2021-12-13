@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\Downloads\\Chat-Messaging-App-Light-and-Dark-Theme-master\\Chat-Messaging-App-Light-and-Dark-Theme-master\\build\\url_launcher_android\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\5909d6a995fc316514a6af045c048cd3\\core-1.1.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Downloads\\Chat-Messaging-App-Light-and-Dark-Theme-master\\Chat-Messaging-App-Light-and-Dark-Theme-master\\build\\url_launcher_android\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\5909d6a995fc316514a6af045c048cd3\\core-1.1.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Downloads\\Chat-Messaging-App-Light-and-Dark-Theme-master\\Chat-Messaging-App-Light-and-Dark-Theme-master\\build\\url_launcher_android\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\5909d6a995fc316514a6af045c048cd3\\core-1.1.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Downloads\\Chat-Messaging-App-Light-and-Dark-Theme-master\\Chat-Messaging-App-Light-and-Dark-Theme-master\\build\\url_launcher_android\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\5909d6a995fc316514a6af045c048cd3\\core-1.1.0\\res\\drawable\\notification_bg_low.xml"
+    }
+]
